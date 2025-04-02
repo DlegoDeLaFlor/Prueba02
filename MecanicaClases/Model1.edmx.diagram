@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f91749f0e85e4c64846d6edec21c7818" Name="Diagram1">
+        <EntityTypeShape EntityType="DBMecanicaModel.Clientes" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBMecanicaModel.Coches" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBMecanicaModel.DetallesReparacion" Width="1.5" PointX="7.5" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBMecanicaModel.Piezas" Width="1.5" PointX="5.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBMecanicaModel.Reparaciones" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="DBMecanicaModel.FK__Coches__DNIPropi__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="DBMecanicaModel.FK__Reparacio__Matri__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="DBMecanicaModel.FK__DetallesR__NumRe__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="DBMecanicaModel.FK__DetallesR__Refer__398D8EEE" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

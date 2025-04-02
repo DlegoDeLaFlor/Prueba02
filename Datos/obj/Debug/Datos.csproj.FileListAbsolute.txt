@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\SistemaTallerMecanico\Datos\bin\Debug\Datos.dll
+C:\Users\ASUS\source\repos\SistemaTallerMecanico\Datos\bin\Debug\Datos.pdb
+C:\Users\ASUS\source\repos\SistemaTallerMecanico\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SistemaTallerMecanico\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SistemaTallerMecanico\Datos\obj\Debug\Datos.dll
+C:\Users\ASUS\source\repos\SistemaTallerMecanico\Datos\obj\Debug\Datos.pdb
